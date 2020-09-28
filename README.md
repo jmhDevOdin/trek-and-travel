@@ -4,7 +4,7 @@ React based web application modelled on a similar design to AirBnB. Created with
 
 Hosted here at: https://wotel-ce2d6.web.app/
 
-Trello for project here: 
+Trello for project here: https://trello.com/b/LebI8diA/wotel
 
 ## Screenshot of app home page
 
