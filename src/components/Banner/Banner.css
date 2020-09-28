@@ -1,0 +1,53 @@
+.banner {
+    height: 50vh;
+    position: relative;
+    background: url('https://wallpapershome.com/images/pages/pic_h/6498.jpg');
+    background-position: center;
+}
+
+.banner__info {
+    background-color: black;
+    color: white;
+    padding-top: 22vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 300px;
+}
+
+.banner__search {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__searchButton {
+    background-color: #BC3333 !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #F2C964 !important;
+    border-radius: 0 !important;
+    border: 0 !important;
+}
+
+.banner__searchButton:hover {
+    background-color: #F2C964 !important;
+    color: #BC3333 !important;
+}
+
+.banner__info > button {
+    background-color: #BC3333;
+    color: #F2C964;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+    border-radius: 0;
+}
+
+.banner__info > button:hover {
+    background-color: #F2C964;
+    color: #BC3333;
+}
+
+.banner__info > h5 {
+    margin-top: 10px;
+}
